@@ -27,7 +27,10 @@ ROOT = Path(__file__).resolve().parent.parent
 WD_COMPANIES_FILE = ROOT / "scripts" / "workday_companies.json"
 
 # Reuse the same keyword filters as scrape.py so results are consistent
-from scrape import HARDWARE_KEYWORDS, INTERN_KEYWORDS, NEWGRAD_KEYWORDS, is_hardware_role, classify_role
+from scrape import (
+    HARDWARE_KEYWORDS, INTERN_KEYWORDS, NEWGRAD_KEYWORDS,
+    is_hardware_role, classify_role, is_within_window, DAYS_WINDOW,
+)
 
 
 def fetch_workday(company_name, tenant, board, host_suffix):
@@ -92,6 +95,9 @@ def scrape_all_workday():
             continue
         print(f"Scraping {c['name']} (Workday)...")
         all_jobs.extend(fetch_workday(c["name"], c["tenant"], c["board"], c["host_suffix"]))
+    before = len(all_jobs)
+    all_jobs = [j for j in all_jobs if is_within_window(j.get("posted"))]
+    print(f"Filtered Workday results to last {DAYS_WINDOW} days: {len(all_jobs)}/{before} kept.")
     return all_jobs
 
 

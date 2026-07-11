@@ -12,7 +12,7 @@ and Lever expose public read-only job board APIs for any company using them.
 import json
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import requests
@@ -20,6 +20,10 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 COMPANIES_FILE = ROOT / "scripts" / "companies.json"
 STATE_FILE = ROOT / "scripts" / "seen_jobs.json"
+
+# Only keep postings from the last N days - older listings are usually
+# already filled or closed, so this keeps the list fresh and relevant.
+DAYS_WINDOW = 90
 
 # Keywords used to decide if a posting counts as a "hardware" role.
 # Tune this list freely — it's the only thing separating hardware from SWE postings.
@@ -144,6 +148,20 @@ def fetch_lever(company_slug, company_name):
     return jobs
 
 
+def is_within_window(posted_str, days=DAYS_WINDOW):
+    """Returns True if posted_str is a parseable date within the last `days` days.
+    If the date can't be parsed or is missing, we keep the job (better to show
+    an unsure posting than silently drop a real one)."""
+    if not posted_str:
+        return True
+    try:
+        posted_date = datetime.strptime(posted_str[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return True
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    return posted_date >= cutoff
+
+
 def scrape_all():
     companies = load_companies()
     all_jobs = []
@@ -156,6 +174,9 @@ def scrape_all():
             all_jobs.extend(fetch_lever(c["token"], name))
         else:
             print(f"  [skip] unsupported ATS type: {c['ats']}", file=sys.stderr)
+    before = len(all_jobs)
+    all_jobs = [j for j in all_jobs if is_within_window(j.get("posted"))]
+    print(f"Filtered to last {DAYS_WINDOW} days: {len(all_jobs)}/{before} postings kept.")
     return all_jobs
 
 
