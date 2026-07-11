@@ -17,9 +17,19 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-07-11 01:57 UTC_
+_Last updated: 2026-07-11 02:18 UTC_
 
-_No open hardware internships found in the last run._
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-07-09 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
+| Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-08 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
+| Jump Trading | Campus FPGA Engineer (Intern) | Chicago | 2026-07-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
+| IMC Trading | 2027 - FPGA Intern - IIT Bombay | Amsterdam, Netherlands; Mumbai, India | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) |
+| IMC Trading | 2027 - FPGA Intern - IIT Madras | Amsterdam, Netherlands; Mumbai, India | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) |
+| Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
+| Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-07-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -27,9 +37,18 @@ _No open hardware internships found in the last run._
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-07-11 01:57 UTC_
+_Last updated: 2026-07-11 02:18 UTC_
 
-_No open hardware new-grad roles found in the last run._
+| Company | Role | Location | Posted | Link |
+|---|---|---|---|---|
+| Anduril | Early Career Firmware Engineer  | Costa Mesa, California, United States | 2026-07-10 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
+| SpaceX | Entry Level Production Technician - PCBA | Redmond, WA | 2026-07-09 | [Apply](https://boards.greenhouse.io/spacex/jobs/8352158002?gh_jid=8352158002) |
+| Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
+| Anduril | 2026 Early Career Manufacturing Engineer | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) |
+| Anduril | 2026 Early Career Mechanical Engineer | Costa Mesa, California, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
+| Anduril | 2027 Early Career Electrical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
+| Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
+| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-07 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
 <!-- NEWGRAD:END -->
 
 ---
