@@ -1,0 +1,28 @@
+{
+  "_instructions": [
+    "Workday doesn't have a single guessable token like Greenhouse/Lever, so each",
+    "company below needs 3 values found by visiting their real careers page:",
+    "",
+    "1. Go to the company's careers site (e.g. jobs.apple.com, or search",
+    "   '<company> careers workday').",
+    "2. Open browser DevTools > Network tab, then search for any job on the site.",
+    "3. Look for a request URL that looks like:",
+    "   https://<tenant>.<host_suffix>.myworkdayjobs.com/wday/cxs/<tenant>/<board>/jobs",
+    "4. Fill in the three parts below:",
+    "   - tenant: the subdomain before '.wdN' (e.g. 'apple')",
+    "   - host_suffix: the 'wdN' part (e.g. 'wd1', 'wd5' - varies per company)",
+    "   - board: the career site name in the path (e.g. 'Apple', case-sensitive,",
+    "     sometimes has spaces encoded as '%20' or dashes)",
+    "",
+    "This file ships EMPTY on purpose - I can't verify Workday tenant IDs from here",
+    "(sandboxed, no internet access to myworkdayjobs.com), and guessing wrong values",
+    "would silently return zero results without you knowing why. Fill in 2-3 real",
+    "ones first, confirm scrape_workday.py finds postings, then expand from there."
+  ],
+  "companies": [
+    { "name": "Apple", "tenant": "REPLACE_ME", "host_suffix": "REPLACE_ME", "board": "REPLACE_ME" },
+    { "name": "Intel", "tenant": "REPLACE_ME", "host_suffix": "REPLACE_ME", "board": "REPLACE_ME" },
+    { "name": "Texas Instruments", "tenant": "REPLACE_ME", "host_suffix": "REPLACE_ME", "board": "REPLACE_ME" },
+    { "name": "Qualcomm", "tenant": "REPLACE_ME", "host_suffix": "REPLACE_ME", "board": "REPLACE_ME" }
+  ]
+}

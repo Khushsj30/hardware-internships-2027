@@ -1,0 +1,39 @@
+name: Add a hardware job posting
+description: Submit a hardware internship or new grad role that's missing from the list
+title: "[New Posting]: "
+labels: ["new-posting"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Position Title
+      placeholder: "Hardware Engineer Intern"
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Application Link
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Intern or New Grad?
+      options:
+        - Intern
+        - New Grad
+    validations:
+      required: true
