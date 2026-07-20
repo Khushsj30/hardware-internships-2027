@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-07-19 14:21 UTC_
+_Last updated: 2026-07-20 15:06 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ _Last updated: 2026-07-19 14:21 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-07-19 14:21 UTC_
+_Last updated: 2026-07-20 15:06 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
