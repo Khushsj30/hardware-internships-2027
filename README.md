@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-07-20 15:06 UTC_
+_Last updated: 2026-07-21 15:00 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -39,11 +39,12 @@ _Last updated: 2026-07-20 15:06 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-07-20 15:06 UTC_
+_Last updated: 2026-07-21 15:00 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| Anduril | Early Career Firmware Engineer  | Costa Mesa, California, United States | 2026-07-18 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
+| Anduril | Early Career Firmware Engineer  | Costa Mesa, California, United States | 2026-07-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
+| SpaceX | Entry Level Production Technician - PCBA | Redmond, WA | 2026-07-20 | [Apply](https://boards.greenhouse.io/spacex/jobs/8352158002?gh_jid=8352158002) |
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Electrical Engineer, Battlespace Awareness Radar Team | Fort Collins, Colorado, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4747967007?gh_jid=4747967007) |
 | Anduril | 2026 Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
@@ -52,7 +53,6 @@ _Last updated: 2026-07-20 15:06 UTC_
 | Anduril | 2027 Early Career Electrical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
-| SpaceX | Entry Level Production Technician - PCBA | Redmond, WA | 2026-07-15 | [Apply](https://boards.greenhouse.io/spacex/jobs/8352158002?gh_jid=8352158002) |
 <!-- NEWGRAD:END -->
 
 ---
