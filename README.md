@@ -17,21 +17,21 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-07-22 15:00 UTC_
+_Last updated: 2026-07-23 15:04 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Jump Trading | Campus FPGA Engineer (Intern) | Chicago | 2026-07-23 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-07-22 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-07-22 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
+| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-07-22 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
+| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-07-22 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-07-22 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
-| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-07-13 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-07-09 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
-| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
-| Jump Trading | Campus FPGA Engineer (Intern) | Chicago | 2026-07-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
 | IMC Trading | 2027 - FPGA Intern - IIT Bombay | Amsterdam, Netherlands; Mumbai, India | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) |
-| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-07-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -39,7 +39,7 @@ _Last updated: 2026-07-22 15:00 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-07-22 15:00 UTC_
+_Last updated: 2026-07-23 15:04 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
