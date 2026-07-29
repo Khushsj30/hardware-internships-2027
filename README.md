@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-07-28 15:15 UTC_
+_Last updated: 2026-07-29 15:30 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ _Last updated: 2026-07-28 15:15 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-07-28 15:15 UTC_
+_Last updated: 2026-07-29 15:30 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| Anduril | Early Career Firmware Engineer  | Costa Mesa, California, United States | 2026-07-28 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
+| Anduril | Early Career Firmware Engineer  | Costa Mesa, California, United States | 2026-07-29 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Electrical Engineer, Battlespace Awareness Radar Team | Fort Collins, Colorado, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4747967007?gh_jid=4747967007) |
 | Anduril | 2026 Early Career Flight Test Engineer, Mission Autonomy | Costa Mesa, California, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
