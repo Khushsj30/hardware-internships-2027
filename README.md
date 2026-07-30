@@ -17,18 +17,19 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-07-29 15:30 UTC_
+_Last updated: 2026-07-30 15:07 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | San Francisco, California, United States | 2026-07-29 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
-| Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
+| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-07-24 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-07-22 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-07-22 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
 <!-- INTERNSHIPS:END -->
@@ -38,7 +39,7 @@ _Last updated: 2026-07-29 15:30 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-07-29 15:30 UTC_
+_Last updated: 2026-07-30 15:07 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
