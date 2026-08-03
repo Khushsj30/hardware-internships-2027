@@ -17,10 +17,11 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-08-02 14:25 UTC_
+_Last updated: 2026-08-03 15:39 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-03 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
 | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-07-31 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | San Francisco, California, United States | 2026-07-30 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-07-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
@@ -40,7 +41,7 @@ _Last updated: 2026-08-02 14:25 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-08-02 14:25 UTC_
+_Last updated: 2026-08-03 15:39 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
