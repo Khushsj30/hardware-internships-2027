@@ -17,15 +17,15 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-08-08 13:40 UTC_
+_Last updated: 2026-08-09 13:43 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
-| Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
+| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | San Francisco, California, United States | 2026-08-04 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | SpaceX | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
@@ -43,7 +43,7 @@ _Last updated: 2026-08-08 13:40 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-08-08 13:40 UTC_
+_Last updated: 2026-08-09 13:43 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
