@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-08-16 13:26 UTC_
+_Last updated: 2026-08-17 13:34 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ _Last updated: 2026-08-16 13:26 UTC_
 | Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
-| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
+| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-08 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | San Francisco, California, United States | 2026-08-04 | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | SpaceX | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
@@ -43,13 +43,13 @@ _Last updated: 2026-08-16 13:26 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-08-16 13:26 UTC_
+_Last updated: 2026-08-17 13:34 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
 | Anduril | Early Career Firmware Engineer  | Costa Mesa, California, United States | 2026-08-15 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | 2026-08-14 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-08-14 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | 2026-08-14 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | 2026-08-14 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) |
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-08-12 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Mechanical Engineer | Costa Mesa, California, United States | 2026-08-12 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
