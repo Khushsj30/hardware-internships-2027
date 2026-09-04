@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-09-03 16:51 UTC_
+_Last updated: 2026-09-04 16:42 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ _Last updated: 2026-09-03 16:51 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-09-03 16:51 UTC_
+_Last updated: 2026-09-04 16:42 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
 <!-- NEWGRAD:END -->
 
 ---
