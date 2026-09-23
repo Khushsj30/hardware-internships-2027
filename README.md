@@ -17,14 +17,13 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-09-22 17:29 UTC_
+_Last updated: 2026-09-23 17:38 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
 | Anduril | 2026 Mechanical Engineering Intern | Sydney, New South Wales, Australia | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) |
 | Anduril | 2026 Robotics Engineer Intern | Sydney, New South Wales, Australia | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
-| Anduril | 2027 Hardware Engineer Intern | Dublin, Dublin, Ireland | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Anduril | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
@@ -47,10 +46,15 @@ _Last updated: 2026-09-22 17:29 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-09-22 17:29 UTC_
+_Last updated: 2026-09-23 17:38 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
+| Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
+| Anduril | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
+| Anduril | Entry Level Systems Engineer, C2 Networking, Clearance Eligible | Costa Mesa, California, United States | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) |
+| Anduril | New Grad Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | 2026-09-22 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) |
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Flight Test Engineer, Mission Autonomy | Costa Mesa, California, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | Anduril | 2026 Early Career Manufacturing Engineer | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) |
@@ -58,13 +62,10 @@ _Last updated: 2026-09-22 17:29 UTC_
 | Anduril | 2027 Early Career Electrical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
-| Anduril | Entry Level Systems Engineer, C2 Integration  | Costa Mesa, California, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
-| Anduril | Entry Level Systems Engineer, C2 Networking | Costa Mesa, California, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) |
-| Anduril | New Grad Systems Engineer, C2 Integration  | Costa Mesa, California, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) |
 <!-- NEWGRAD:END -->
 
 ---
