@@ -17,10 +17,11 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-09-23 17:38 UTC_
+_Last updated: 2026-09-24 17:41 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-09-23 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | Anduril | 2026 Mechanical Engineering Intern | Sydney, New South Wales, Australia | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) |
 | Anduril | 2026 Robotics Engineer Intern | Sydney, New South Wales, Australia | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
@@ -46,7 +47,7 @@ _Last updated: 2026-09-23 17:38 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-09-23 17:38 UTC_
+_Last updated: 2026-09-24 17:41 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -64,8 +65,8 @@ _Last updated: 2026-09-23 17:38 UTC_
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-21 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002) |
+| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002) |
 <!-- NEWGRAD:END -->
 
 ---
