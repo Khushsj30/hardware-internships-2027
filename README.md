@@ -17,10 +17,13 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-09-27 17:23 UTC_
+_Last updated: 2026-09-28 19:57 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-09-28 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-09-28 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-09-28 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | Anduril | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States | 2026-09-25 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-09-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-09-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
@@ -28,11 +31,8 @@ _Last updated: 2026-09-27 17:23 UTC_
 | Anduril | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts, United States | 2026-09-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
 | Anduril | Winter 2027 Manufacturing Engineer Co-op | Lexington, Massachusetts, United States; Quincy, Massachusetts, United States | 2026-09-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
 | Anduril | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-09-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-09-23 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
-| IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-09-15 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | SpaceX | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-09-01 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
-| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-09-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
@@ -45,7 +45,7 @@ _Last updated: 2026-09-27 17:23 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-09-27 17:23 UTC_
+_Last updated: 2026-09-28 19:57 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
