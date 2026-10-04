@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-03 16:55 UTC_
+_Last updated: 2026-10-04 17:14 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ _Last updated: 2026-10-03 16:55 UTC_
 | Anduril | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-09-24 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
-| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -45,7 +45,7 @@ _Last updated: 2026-10-03 16:55 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-03 16:55 UTC_
+_Last updated: 2026-10-04 17:14 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
