@@ -17,13 +17,13 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-06 18:43 UTC_
+_Last updated: 2026-10-07 19:09 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-10-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
-| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-10-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
-| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-10-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
+| IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
@@ -48,7 +48,7 @@ _Last updated: 2026-10-06 18:43 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-06 18:43 UTC_
+_Last updated: 2026-10-07 19:09 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
