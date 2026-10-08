@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-07 19:09 UTC_
+_Last updated: 2026-10-08 19:06 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ _Last updated: 2026-10-07 19:09 UTC_
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
-| Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
 | Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
+| Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -48,7 +48,7 @@ _Last updated: 2026-10-07 19:09 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-07 19:09 UTC_
+_Last updated: 2026-10-08 19:06 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -61,7 +61,6 @@ _Last updated: 2026-10-07 19:09 UTC_
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
 | Anduril | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
-| Anduril | Entry Level Systems Engineer, C2 Networking, Clearance Eligible | Costa Mesa, California, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) |
 | Anduril | New Grad Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | 2026-09-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) |
 <!-- NEWGRAD:END -->
