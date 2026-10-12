@@ -17,11 +17,11 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-11 17:52 UTC_
+_Last updated: 2026-10-12 21:30 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| IMC Trading | Hardware Machine Learning PhD Research Internship | New York, United States | 2026-10-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
+| IMC Trading | Hardware Machine Learning PhD Research Internship | New York, United States | 2026-10-12 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | Anduril | 2026 Electrical Engineer Intern | Sydney, New South Wales, Australia | 2026-10-08 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) |
 | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
@@ -49,7 +49,7 @@ _Last updated: 2026-10-11 17:52 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-11 17:52 UTC_
+_Last updated: 2026-10-12 21:30 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
