@@ -17,14 +17,14 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-12 21:30 UTC_
+_Last updated: 2026-10-13 19:41 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
-| IMC Trading | Hardware Machine Learning PhD Research Internship | New York, United States | 2026-10-12 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
+| IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-10-13 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-10-13 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| IMC Trading | Hardware Machine Learning PhD Research Internship | New York, United States | 2026-10-13 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | Anduril | 2026 Electrical Engineer Intern | Sydney, New South Wales, Australia | 2026-10-08 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) |
-| IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
-| IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | 2026-10-07 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
@@ -39,9 +39,9 @@ _Last updated: 2026-10-12 21:30 UTC_
 | SpaceX | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-09-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | Jump Trading | Campus FPGA Engineer (Intern) | London | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
-| Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
-| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
+| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -49,7 +49,7 @@ _Last updated: 2026-10-12 21:30 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-12 21:30 UTC_
+_Last updated: 2026-10-13 19:41 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
