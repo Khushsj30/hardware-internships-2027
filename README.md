@@ -17,10 +17,13 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-14 17:44 UTC_
+_Last updated: 2026-10-15 17:32 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Anduril | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States | 2026-10-15 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
+| Anduril | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-10-15 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
+| Anduril | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | 2026-10-14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
 | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | 2026-10-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | Anduril | 2026 Electrical Engineer Intern | Sydney, New South Wales, Australia | 2026-10-13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) |
 | Anduril | 2027 Firmware Engineer Intern | Costa Mesa, California, United States | 2026-10-13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
@@ -32,16 +35,14 @@ _Last updated: 2026-10-14 17:44 UTC_
 | Anduril | 2027 Quality & Test Engineer Intern | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
 | Anduril | 2027 Systems Engineer Intern | Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
 | Anduril | Winter 2027 Electrical Engineer Co-op | Costa Mesa, California, United States; Quincy, Massachusetts, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) |
-| Anduril | Winter 2027 Manufacturing Engineer Co-op | Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007) |
 | Anduril | Winter 2027 Mechanical Engineer Co-op | Ashville, Ohio, United States; Quincy, Massachusetts, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007) |
-| Anduril | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
 | Anduril | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
 | SpaceX | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-09-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-09-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
-| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
+| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -49,7 +50,7 @@ _Last updated: 2026-10-14 17:44 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-14 17:44 UTC_
+_Last updated: 2026-10-15 17:32 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
