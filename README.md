@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-24 16:24 UTC_
+_Last updated: 2026-10-25 16:55 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ _Last updated: 2026-10-24 16:24 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-24 16:24 UTC_
+_Last updated: 2026-10-25 16:55 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ _Last updated: 2026-10-24 16:24 UTC_
 | Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
 | Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
-| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Dublin, Dublin, Ireland | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007) |
+| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
 | Anduril | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-23 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
 | SpaceX | (Entry Level) Production Technician - PCBA | Redmond, WA | 2026-09-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8657538002?gh_jid=8657538002) |
 <!-- NEWGRAD:END -->
