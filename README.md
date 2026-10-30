@@ -17,10 +17,11 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-10-29 18:45 UTC_
+_Last updated: 2026-10-30 18:22 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-10-30 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | SpaceX | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-10-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 2026-10-29 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
@@ -37,11 +38,10 @@ _Last updated: 2026-10-29 18:45 UTC_
 | Anduril | Winter 2027 Quality & Test Engineer Co-op | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
 | Anduril | Winter 2027 Robotics Engineer Co-op | Quincy, Massachusetts, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007) |
 | Anduril | Winter 2027 Systems Engineer Co-op | Quincy, Massachusetts, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) |
-| IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | 2026-10-23 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
-| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
-| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
 | Jump Trading | Campus Systems Engineer (Intern) | Singapore | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) |
+| Jump Trading | Campus Systems Engineer (Intern) | London; Amsterdam | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8000323) |
+| Jump Trading | Campus Systems Engineer (Intern) | Chicago | 2026-08-18 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 <!-- INTERNSHIPS:END -->
 
 ---
@@ -49,7 +49,7 @@ _Last updated: 2026-10-29 18:45 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-10-29 18:45 UTC_
+_Last updated: 2026-10-30 18:22 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ _Last updated: 2026-10-29 18:45 UTC_
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Manufacturing Engineer | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) |
 | Anduril | 2026 Early Career Mechanical Engineer | Costa Mesa, California, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
-| Anduril | 2027 Early Career Electrical Engineer | Dublin, Dublin, Ireland | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) |
 | Anduril | 2027 Early Career Electrical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) |
+| Anduril | 2027 Early Career Electrical Engineer | Dublin, Dublin, Ireland | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007) |
 | Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
 | Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | 2026-10-27 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
