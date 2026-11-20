@@ -17,7 +17,7 @@ Missing a company or a posting? [Open an issue](../../issues/new/choose) or add 
 ## 📋 Internships
 
 <!-- INTERNSHIPS:START -->
-_Last updated: 2026-11-19 21:07 UTC_
+_Last updated: 2026-11-20 20:53 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
@@ -48,10 +48,13 @@ _Last updated: 2026-11-19 21:07 UTC_
 ## 🎓 New Grad Roles
 
 <!-- NEWGRAD:START -->
-_Last updated: 2026-11-19 21:07 UTC_
+_Last updated: 2026-11-20 20:53 UTC_
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Anduril | Mission Systems Engineer, Early Career | Costa Mesa, California, United States | 2026-11-20 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007) |
+| Anduril | Radar Systems Engineer, Early Career | Costa Mesa, California, United States | 2026-11-20 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007) |
+| Anduril | RF Integration Systems Engineer, Early Career | Costa Mesa, California, United States | 2026-11-20 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007) |
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
 | Anduril | 2026 Early Career Manufacturing Engineer | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) |
 | Anduril | 2026 Early Career Mechanical Engineer | Costa Mesa, California, United States | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
@@ -63,7 +66,6 @@ _Last updated: 2026-11-19 21:07 UTC_
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Dublin, Dublin, Ireland | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007) |
 | Anduril | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
-| Anduril | Early Career RF Mission Systems Engineer, Air Dominance & Strike | Costa Mesa, California, United States | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007) |
 | SambaNova | Design Verification Engineer, New Grad | San Jose, California, United States | 2026-11-03 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004) |
 | SambaNova | Physical Design Engineer, New Grad | San Jose, California, United States | 2026-11-03 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004) |
 | SambaNova | Post-Silicon Validation Engineer, New Grad | San Jose, California, United States | 2026-11-03 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004) |
